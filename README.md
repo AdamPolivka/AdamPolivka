@@ -6,7 +6,7 @@
 - I'm currently looking for a job
 - Sometimes I stream games, coding or 3d modeling on [twitch](https://www.twitch.tv/ecriiz)
 
-### IT skills and hobbies ⚡:
+### IT skills ⚡:
 - C++, C#, C, Python, CSS
 - Windows & Linux
 - Virtual reality development (Unity - SteamVR and UnityXR)
