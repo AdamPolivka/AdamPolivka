@@ -1,11 +1,13 @@
 <h1>Hello, I'm Adam Polívka, welcome to my Github!</h1>
 
 ### About me 👯: 
-- Graduated with bachelor's degree in _Software Engineering and Computer graphics_ at [FIT CTU](https://fit.cvut.cz/en)
+- Graduated with bachelor's degree in _Web and Software Engineering & Computer graphics_ at [FIT CTU](https://fit.cvut.cz/en)
+- Studied abroad for one semester at [RMIT AU](https://www.rmit.edu.au/) (_Web, VR and 3D rendering_ courses)
 - I'm currently looking for a job
 - Sometimes I stream games, coding or 3d modeling on [twitch](https://www.twitch.tv/ecriiz)
+
 ### IT skills and hobbies ⚡:
-- C++, C#, C, Python
+- C++, C#, C, Python, CSS
 - Windows & Linux
 - Virtual reality development (Unity - SteamVR and UnityXR)
 - Game desing and development (gameplay, custom shaders, environment art design)
