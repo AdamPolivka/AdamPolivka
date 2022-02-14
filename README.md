@@ -14,10 +14,6 @@
 - Scripting addons (Blender - Python scripts)
 - Basics in 3D modeling (Blender)
 
-### Currenly learning/improving on 🔭:
-- Game development
-- 3D modeling (Blender/Maya)
-
 ### Languages 💬: 
 Czech, English, Slovak
 
