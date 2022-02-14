@@ -15,7 +15,7 @@
 - Basics in 3D modeling (Blender)
 
 ### Languages 💬: 
-Czech, English, Slovak
+Czech, English
 
 ### How to reach me 📫:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AdamPolivka)
